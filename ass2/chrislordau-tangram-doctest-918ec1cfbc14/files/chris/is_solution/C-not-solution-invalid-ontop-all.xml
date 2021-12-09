@@ -1,0 +1,6 @@
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg">
+    <path d="M 50 50 L 50 150 L 150 150 L 150 50 z" fill="black"/>
+    <path d="M 50 50 L 50 150 L 150 150 L 150 50 z" fill="pink"/>
+    <path d="M 50 50 L 50 150 L 150 150 L 150 50 z" fill="purple"/>
+    <path d="M 50 50 L 50 150 L 150 150 L 150 50 z" fill="olive"/>
+</svg>

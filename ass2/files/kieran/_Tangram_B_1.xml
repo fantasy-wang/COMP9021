@@ -1,0 +1,5 @@
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg">
+    <path d="M 200 100 L 250 50 L 250 200 z" fill="teal"/>
+    <path d="M 200 100 L 250 50 L 200 25 L 150 50 z" fill="orange"/>
+    <path d="M 200 100 L 150 50 L 100 100 L 150 150 z" fill="purple"/>
+</svg>

@@ -1,0 +1,4 @@
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg">
+    <path d="M 50 50 L 50 100 L 200 100 L 200 50 z" fill="purple"/>
+    <path d="M 50 100 L 50 200 L 200 200 L 200 100 z" fill="black"/>
+</svg>
